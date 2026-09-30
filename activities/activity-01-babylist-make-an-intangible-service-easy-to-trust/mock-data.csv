@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.shopify.com/sg/blog/service-branding,verified public source
+training_assumption,assumption_1,"The Singapore platform, customer interviews and commercial figures are fictional training inputs, not Babylist disclosures.",fictional course input
+training_assumption,assumption_2,"Mock research shows first-time parents value reassurance, time saved and unbiased recommendations.",fictional course input
+training_assumption,assumption_3,"The current landing page leads with features and has no process map, expert proof or outcome story.",fictional course input
+training_assumption,assumption_4,Management will fund one 90-day proof-building initiative before changing price.,fictional course input
+learner_question,question_1,"Which functional, financial, time and social risks affect the customer's decision?",response required
+learner_question,question_2,"What brand benefits could matter to customers, employees and the business?",response required
+learner_question,question_3,Which three tangible cues would make the promise easier to trust?,response required
+learner_question,question_4,"What is the defensible competitive advantage, and what evidence is still missing?",response required

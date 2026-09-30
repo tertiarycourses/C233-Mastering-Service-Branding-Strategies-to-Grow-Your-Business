@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.zapposinsights.com/about/culture,verified public source
+training_assumption,assumption_1,"The marketplace, interview statements and performance data are fictional and not Zappos information.",fictional course input
+training_assumption,assumption_2,"Employees understand the words but lack examples, authority and aligned performance measures.",fictional course input
+training_assumption,assumption_3,Field partners are contractors; adoption must include onboarding and quality governance.,fictional course input
+training_assumption,assumption_4,"The sponsor can change coaching, recognition and escalation rules within 30 days.",fictional course input
+learner_question,question_1,"What must employees understand, believe, know and be able to do?",response required
+learner_question,question_2,Which three behaviours best express dependable care at critical moments?,response required
+learner_question,question_3,What systems currently contradict the promise?,response required
+learner_question,question_4,"How should champions, managers and leaders reinforce adoption?",response required

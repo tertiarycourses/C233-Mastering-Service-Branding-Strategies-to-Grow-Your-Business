@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.dbs.com/about-us/who-we-are/our-promise-to-you,verified public source
+training_assumption,assumption_1,The regional bank and performance data are fictional; no DBS operating metrics are supplied or inferred.,fictional course input
+training_assumption,assumption_2,"Small-business customers report repeated-document requests, slow onboarding and unclear case ownership.",fictional course input
+training_assumption,assumption_3,"Management defines success as lower customer effort and faster time to first value, subject to compliance controls.",fictional course input
+training_assumption,assumption_4,The team may redesign one journey but cannot replace the core banking platform this quarter.,fictional course input
+learner_question,question_1,What customer outcome makes the DBS promise relevant rather than merely memorable?,response required
+learner_question,question_2,Which service capabilities would be required to make a comparable promise credible?,response required
+learner_question,question_3,"How could improved delivery affect trust, retention, referral and cost-to-serve?",response required
+learner_question,question_4,Which alternative explanations must be considered before claiming business impact?,response required

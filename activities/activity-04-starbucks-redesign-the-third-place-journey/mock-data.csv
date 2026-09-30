@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://about.starbucks.com/mission/,verified public source
+training_assumption,assumption_1,"The café, customer data, budget and constraints are fictional training inputs.",fictional course input
+training_assumption,assumption_2,"Its priority segment is hybrid workers and nearby residents seeking calm, reliable social connection.",fictional course input
+training_assumption,assumption_3,"The café can adjust layout, booking, host behaviour, menu presentation and community programming.",fictional course input
+training_assumption,assumption_4,Any concept must maintain seat turnover and accessibility rather than maximise dwell time alone.,fictional course input
+learner_question,question_1,What customer job and emotional outcome should define the café's position?,response required
+learner_question,question_2,Which 7Ps currently contradict the intended brand experience?,response required
+learner_question,question_3,Which three moments could become distinctive and difficult to copy?,response required
+learner_question,question_4,"How will the team balance belonging, accessibility and commercial viability?",response required

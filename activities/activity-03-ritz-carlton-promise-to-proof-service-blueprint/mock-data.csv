@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.ritzcarlton.com/en/services/standards/,verified public source
+training_assumption,assumption_1,"The eldercare concierge, personas and operational data are fictional and are not connected to Ritz-Carlton.",fictional course input
+training_assumption,assumption_2,"Families value dignity, clarity, continuity and rapid escalation when care needs change.",fictional course input
+training_assumption,assumption_3,"The organisation has 12 advisors across phone, WhatsApp and in-person channels.",fictional course input
+training_assumption,assumption_4,"Privacy, safeguarding and clinical escalation are non-negotiable guardrails.",fictional course input
+learner_question,question_1,"What strategic promise should the concierge make, and to whom?",response required
+learner_question,question_2,Which service principles and observable standards would make the promise real?,response required
+learner_question,question_3,"Where should delivery be standardised, and where should employees exercise judgement?",response required
+learner_question,question_4,What physical or digital evidence would reassure families before and during service?,response required

@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.singaporeair.com/en_UK/us/about-us/our-story/,verified public source
+training_assumption,assumption_1,"The airline, promise and dataset are fictional and must not be attributed to Singapore Airlines.",fictional course input
+training_assumption,assumption_2,"The mock data includes employee confidence, departure communication, first-contact resolution, effort, satisfaction, complaints and repeat booking.",fictional course input
+training_assumption,assumption_3,The dashboard has space for eight measures and must support a monthly management decision.,fictional course input
+training_assumption,assumption_4,Safety and regulatory measures remain separate hard constraints and cannot be traded for experience scores.,fictional course input
+learner_question,question_1,Which leading and lagging measures best test the promise?,response required
+learner_question,question_2,How should results be segmented to expose inconsistency?,response required
+learner_question,question_3,Which metric definitions or data sources could mislead management?,response required
+learner_question,question_4,"What threshold should trigger action, and who owns the response?",response required

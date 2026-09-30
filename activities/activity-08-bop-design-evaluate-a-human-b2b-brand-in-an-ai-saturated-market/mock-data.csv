@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://www.bopdesign.com/bop-blog/b2b-branding-trends-for-2026-and-2027/,verified public source
+training_assumption,assumption_1,"The advisory firm, research quotes and funnel data are fictional training inputs, not BOP Design client results.",fictional course input
+training_assumption,assumption_2,"The team can run interviews, analyse search/enquiry data and test one website/service-introduction change over 90 days.",fictional course input
+training_assumption,assumption_3,The firm promises 'Clear decisions in complex cyber risk'.,fictional course input
+training_assumption,assumption_4,"AI use must preserve confidentiality, accuracy, disclosure and expert accountability.",fictional course input
+learner_question,question_1,Which evidence would distinguish awareness growth from stronger brand preference?,response required
+learner_question,question_2,How can the firm test whether generic AI-mediated content weakened trust?,response required
+learner_question,question_3,What human and system cues should be evaluated across the buyer journey?,response required
+learner_question,question_4,Which 90-day experiment offers the clearest learning at acceptable risk?,response required

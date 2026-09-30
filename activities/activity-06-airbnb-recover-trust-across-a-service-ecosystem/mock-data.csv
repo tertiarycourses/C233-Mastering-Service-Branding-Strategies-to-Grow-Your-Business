@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+public_case,primary_source,https://news.airbnb.com/about-us/,verified public source
+training_assumption,assumption_1,"The booking platform, incident, family and financial amounts are fictional and not an Airbnb event.",fictional course input
+training_assumption,assumption_2,The booking value is S$480 and an alternative provider is available at S$620 two hours later.,fictional course input
+training_assumption,assumption_3,Frontline agents may approve S$150 without escalation; safety and fraud flags require specialist review.,fictional course input
+training_assumption,assumption_4,"The promise is 'Local moments, made dependable'.",fictional course input
+learner_question,question_1,"What outcome, process and interaction fairness does the customer need?",response required
+learner_question,question_2,Who owns the recovery when value is co-created by several parties?,response required
+learner_question,question_3,What authority and guardrails should frontline employees have?,response required
+learner_question,question_4,What evidence would show confidence is restored and the system improved?,response required
